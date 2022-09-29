@@ -13,25 +13,13 @@
 
 # pseudo
 # *greedy algorithm*
-# res = nums[0]
-# total = 0
-# for N in nums:
-  # total += n
-  # res = max(res, total)
-  # if total < 0 : total = 0
-# return res
-
-# class Solution:
-#   def maxSubArray(self, nums: List[int]) -> int:
-#     res = nums[0]
-#     total = 0
-
-#     for n in nums:
-#       total += n
-#       res = max(res, total)
-#       if total < 0:
-#         total = 0
-#     return res
+# max = nums[0]
+# cur = 0
+# for n in nums
+  # edge case: if cur < 0: cur = 0
+  # cur += n
+  # max(max, cur)
+# return max
 
 class Solution:
   def maxSubArray(self, nums: List[int]) -> int:
