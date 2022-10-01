@@ -1,7 +1,13 @@
 # 49. GROUP ANAGRAMS
-# Given an array of strings strs, group the anagrams together. You can return the answer in any order.
+# # notebook no. 9
 
-# An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
+# Given an array of strings strs, 
+# group the anagrams together. 
+# You can return the answer in any order.
+
+# An Anagram is a word or phrase 
+# formed by rearranging the letters of a different word or phrase, 
+# typically using all the original letters exactly once.
 
 # Example 1:
 

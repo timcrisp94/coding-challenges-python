@@ -1,6 +1,10 @@
 # 53 - Maximum Subarray
+# # notebook no. 5
 
-# Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+# Given an integer array nums, 
+# find the contiguous subarray 
+# (containing at least one number) 
+# which has the largest sum and return its sum.
 
 # A subarray is a contiguous part of an array.
 
