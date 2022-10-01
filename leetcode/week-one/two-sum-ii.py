@@ -48,3 +48,6 @@ class Solution(object):
         l += 1
       else:
         return [l+1, r+1]
+
+# time complexity : O(N) - length of input array
+# space : O(1)
