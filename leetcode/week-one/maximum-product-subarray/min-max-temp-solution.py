@@ -1,5 +1,5 @@
 # 152/10. Maximum Product Subarray
-# * min, max, temp
+# * min, max, temp (kadane)
 
 # Given an integer array nums, find a contiguous non-empty subarray within the array that has the largest product, and return the product.
 
